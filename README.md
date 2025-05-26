@@ -10,6 +10,6 @@
 
 * kafka consumer -----check-----> kafka-consumer
 
-* redis -----check-----> user-property-booking-service "i used a Docker image to run redis"
+* redis -----check-----> user-property-booking-service "i used a Docker image in Docker Desktop to run redis"
 
 * Testcontainers -----check-----> user-property-booking-service
